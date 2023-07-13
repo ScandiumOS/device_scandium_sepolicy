@@ -1,0 +1,7 @@
+# HALs
+hal_attribute_scandium(lineage_camera_motor)
+hal_attribute_scandium(lineage_fastcharge)
+hal_attribute_scandium(lineage_livedisplay)
+hal_attribute_scandium(lineage_touch)
+hal_attribute_scandium(lineage_trust)
+hal_attribute_scandium(lineage_powershare)
